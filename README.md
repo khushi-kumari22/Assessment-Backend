@@ -11,9 +11,11 @@ Welcome to the Yoga Classes Admission Form project! This application allows user
   
 ## Tech Stack
 
-- Frontend: React 
-- Backend: Express.js
+- Frontend: JavaScript and React 
+- Backend: Node.js and Express.js
 - Database: Firebase
+
+- Node.js provides the runtime and express js framework is used to build the api with /data and /save
 
 ## Entity-Relationship (ER) Diagram:
 
